@@ -1,0 +1,35 @@
+C:\Program Files (x86)\HPE\Unified Functional Testing\samples\Flights Application\FlightsGUI.exe
+
+
+1. Record and play (Default Recording Mode)
+   "iexplore.exe", "path"
+   
+2. Record and run settings 
+
+3. Low Level Recording
+
+4. Analog Recording --- Capture Mouse Events (Not possible in Selenium)
+
+5. Insight Recording --- When its not able to identify using properties of object 
+
+6. We can mix all the recording modes 
+
+7. ParentObjectName("property-value") ChildObjectName("Property-value"). action 
+
+	eg: window(
+	
+8. Object spy(naviagate --> Tools --> Object spy) - we can see the complete list of property and property value 
+
+9. Resources --> Object Repository
+
+10. Tools --> Object Identification
+
+11. .tsr --> Test Share Repository
+
+12. .mtr --> Modular Test Repository
+
+13. Synchronization
+
+14. Data Table
+
+15. Gives Unstability And Corrupts Script
