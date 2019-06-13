@@ -1,0 +1,20 @@
+DFDR & Use case
+4 	Defect free defect report(product quality, helps developer in better understanding of defects in system )
+4 	wrong label of login [Reset performing login functionality](low severity High priority)
+1 	high priority(opencart.com navigation "error page not found")
+		cancelled-	tester realized status assigned is invalid
+		rejected-	developer is considering not valid
+		deffered-	defect fix held due to time and budget
+1,2	examples of actor(employee, customer)
+1	login-->User registration-->Buy item-->Make Payment
+
+Set-2
+3	defect priority is indication of when to fix defect
+4	mandatory attributes in defect report(id,rep date, description,status, severity, priority)
+1	high priority low severity(opencartdemo.com spelling mistake Apple) 
+		isolate-identify the module where defect exists
+		condense-make it clear
+		evidence-documentation
+		accurate-defect or user error
+3	usecase level testing(movie tickets booking)
+	

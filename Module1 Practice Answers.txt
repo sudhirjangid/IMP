@@ -1,0 +1,52 @@
+option 2 true
+option 2 true	
+option 1 false	No rows will be inserted in PurchaseOrder
+option 4 false  only row of Student table gets deleted 
+option 2 true 
+option 4 true
+option 1 true
+option 1 true
+option 1 true
+option 3 false 	Non Equi Join
+option 1 true
+option 4 false 	Self Join
+option 1 true
+option 2 true
+option 1 true	 >All(5,10,15) exp greater than 15
+option 3 true	 >Any(5,10,15) exp greater than 5
+option 4 true 	(=Any(5,10,15) exp equivalent to 5, 10, 15)
+HTML
+option 4 true 	radio 
+option 2 true 	list-style-image: 
+option 3 true	
+option 2 false _blank
+option 3 false <a href="#sec1">code</a>
+option 3 false <input type="week">
+option 4 true 
+option 1 true <input id="txtname" type="text" autofocus required/>
+option 3 true
+option 4 true <nav>
+option 1       accept="image/*"
+option 3 true
+option 4 true
+option 1 true checkbox
+option 2 true 
+option 2 true CSS background image
+option 2 true CSS property tag lowercase
+option 1 false Selector for font color
+option 3 true styles to text fields
+option 1 	  
+java script
+option 1 true 
+option 2 false .focus(); 
+XML
+option 3 true
+option 4 true patternvalue
+
+
+
+
+
+
+
+
